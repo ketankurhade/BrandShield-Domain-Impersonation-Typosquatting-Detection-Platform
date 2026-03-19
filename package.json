@@ -1,0 +1,25 @@
+{
+  "name": "brandshield-domain-impersonation-typosquatting-detection-platform",
+  "version": "1.0.0",
+  "description": "BrandShield is a cybersecurity intelligence platform designed to help organizations detect **malicious domains that impersonate their brand or official website**. Attackers frequently register deceptive domains that closely resemble legitimate brands to conduct phishing attacks, distribute malware, steal credentials, or trick users into fraudulent transactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyber-solutions-information-board/BrandShield-Domain-Impersonation-Typosquatting-Detection-Platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cyber-solutions-information-board/BrandShield-Domain-Impersonation-Typosquatting-Detection-Platform/issues"
+  },
+  "homepage": "https://github.com/Cyber-solutions-information-board/BrandShield-Domain-Impersonation-Typosquatting-Detection-Platform#readme",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.20.0"
+  }
+}
